@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\bin\Debug\Tax.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\bin\Debug\Tax.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\bin\Debug\Tax.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\obj\Debug\Tax.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\obj\Debug\Tax.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\obj\Debug\Tax.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\23-ucim-se-2021-02-18\03-HW-4-01-Tax\stuff\Tax\obj\Debug\Tax.pdb
